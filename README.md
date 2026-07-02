@@ -1,6 +1,6 @@
 # Arduino_Projects
 This is a repository about some arduino projects.
-This projects were develloped in the wokwi website.
+This projects were developed in the wokwi website.
 You can follow this projects:
 * **Lock Project**: [click here](https://wokwi.com/projects/468344225999413249)
 * **Metereological Station**: [click here](https://wokwi.com/projects/468262556387197953)
