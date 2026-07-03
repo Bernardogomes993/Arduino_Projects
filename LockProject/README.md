@@ -35,4 +35,6 @@ The connections schematic are available in the folder of the project.
    state by pressing `A`.
 4. **New Password State**: The leds will be both blinking and the user can change the password to a new one with 4 digits.
    
-   
+# Link to the project
+If you want to play with the project you can follow this link:
+[click here](https://wokwi.com/projects/468344225999413249)
