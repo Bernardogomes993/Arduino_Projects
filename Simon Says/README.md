@@ -18,3 +18,6 @@ The schematic is available at the folder of the project
 4. If you guess the Arduino will repeat the same sequence and adds another random light.
    If you miss the game will go back to the beginning (one led).
    
+## Link to the project
+If you want to play with this project follow the link:
+[click here](https://wokwi.com/projects/468242378014533633)
