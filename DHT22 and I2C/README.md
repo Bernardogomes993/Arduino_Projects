@@ -20,3 +20,7 @@ The connection schematic is available inside of the folder.
 3. Do the **Upload** of the code to the Arduino.
 4. Open the **Serial Monitor** with the baud rate of 9600
 5. Every 2 seconds the LCD will display the data and the serial monitor will display the data like a JSON format.
+
+# Link to the project
+If you want to have access to the full project follow this:
+[click here](https://wokwi.com/projects/468262556387197953)
